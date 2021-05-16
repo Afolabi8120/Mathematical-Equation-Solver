@@ -1,0 +1,6 @@
+c:\users\snazzy\documents\visual studio 2012\Projects\Mathematical_Equations_Solver\Mathematical_Equations_Solver\bin\Debug\Mathematical_Equations_Solver.exe.config
+c:\users\snazzy\documents\visual studio 2012\Projects\Mathematical_Equations_Solver\Mathematical_Equations_Solver\bin\Debug\Mathematical_Equations_Solver.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\Mathematical_Equations_Solver\Mathematical_Equations_Solver\bin\Debug\Mathematical_Equations_Solver.pdb
+c:\users\snazzy\documents\visual studio 2012\Projects\Mathematical_Equations_Solver\Mathematical_Equations_Solver\obj\Debug\Mathematical_Equations_Solver.csprojResolveAssemblyReference.cache
+c:\users\snazzy\documents\visual studio 2012\Projects\Mathematical_Equations_Solver\Mathematical_Equations_Solver\obj\Debug\Mathematical_Equations_Solver.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\Mathematical_Equations_Solver\Mathematical_Equations_Solver\obj\Debug\Mathematical_Equations_Solver.pdb
